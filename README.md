@@ -3,11 +3,7 @@ CS 340 – Artificial Intelligence
 Spring 2020 - Semester Project 
 
 Contents
-1. Description
-2. Deliverables
-3. Grading
-4. Deadlines
-5. Supplements
+
 1. Description
 In this project you will write three interactive AI tutorials (Solving Problems by 
 Searching, Adversarial Search and Constraint Satisfaction). You will write them as 
