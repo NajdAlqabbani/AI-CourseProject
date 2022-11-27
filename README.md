@@ -1,6 +1,6 @@
 # TicTacToe-MINIMAX-MINIMAXwithALPHABETA
-CS 340 – Artificial Intelligence 
-Spring 2020 - Semester Project 
+CS 361 – Artificial Intelligence 
+ 2022 - Semester Project 
 
 Contents
 
