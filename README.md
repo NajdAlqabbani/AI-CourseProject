@@ -1,4 +1,7 @@
 # TicTacToe-MINIMAX-MINIMAXwithALPHABETA
+CS 340 – Artificial Intelligence 
+Spring 2020 - Semester Project 
+
 Contents
 1. Description
 2. Deliverables
@@ -21,16 +24,12 @@ You should guide the reader to test and change variables in the problem/algorith
 so they can understand the important concepts. 
 The following table contains the algorithms you need to explain, implement, and 
 show their performance on the formulated problem.
-CS 340 – Artificial Intelligence 
-Spring 2020 - Semester Project 
-Developing Interactive AI Tutorials 
-Teaching is the best way to learn.
+
+
  
-Imam University | CCIS | Doc. No. 006-01-20141026
-Page 2 of 4
-Notebook Title Main Concepts Algorithms
-Adversarial 
-Search
+ Main Concepts Algorithms
+
+
  Game trees
 o Game as search (initial state, state 
 space, goal state)
@@ -40,8 +39,10 @@ o Performance measure
 o Example for each concept
 o Any knowledge you learnt about 
 Games
+
  Min-Max
  Alpha-Beta
+
 A suggested notebook layout is as follows:
  Introduction 
 o Explains the objectives and main concepts.
